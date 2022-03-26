@@ -33,3 +33,6 @@ html {
   caption {
     padding: 10px;
   }
+  h1 {
+    padding: auto;
+  }
